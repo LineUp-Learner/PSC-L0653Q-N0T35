@@ -1,0 +1,15 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "pages",
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "assets",
+  "showInlineTitle": true,
+  "defaultViewMode": "preview",
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "logseq/",
+    "logseq/*"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "theme": "moonstone",
+  "showViewHeader": false,
+  "nativeMenus": true,
+  "interfaceFontFamily": "Inter",
+  "baseFontSizeAction": true,
+  "baseFontSize": 11,
+  "showRibbon": true
+}
