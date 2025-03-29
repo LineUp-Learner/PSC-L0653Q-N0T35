@@ -107,20 +107,24 @@
             "id": "009d1ea1364807a1",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
-            }
-          },
-          {
-            "id": "669563d629af8991",
-            "type": "leaf",
-            "state": {
-              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "pages/Governance Instruments or Public Policy Instruments.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Plugin Updates"
+              "title": "Governance Instruments or Public Policy Instruments"
             }
           },
           {
@@ -328,6 +332,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "pages/Governance Instruments or Public Policy Instruments.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -355,7 +360,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Governance Instruments or Public Policy Instruments"
             }
           }
         ]
@@ -403,11 +408,15 @@
       "3d-graph:3D Graph": false,
       "edge-tts:Read note aloud": false,
       "translate:Open translation view": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "009d1ea1364807a1",
   "lastOpenFiles": [
+    "pages/National Commission for Women (NCW) - A Comprehensive Analysis.md",
+    "pages/GOVERNMENT vs. STATE.md",
+    "pages/Electoral Systems - India and Globally.md",
     "_Index_of_PSC-LOGSEQ NOTES.md",
     "pages/OBJECTIVES RESOLUTION, 1946.md",
     "pages/AUGUST OFFER, 1940.md",
@@ -415,14 +424,12 @@
     "pages/Vishaka Guidelines - Vishaka & Others vs. State of Rajasthan case (1997).md",
     "pages/Dowry Prohibition & Domestic Violence.md",
     "pages/Democracy - Basics.md",
-    "pages/National Commission for Women (NCW) - A Comprehensive Analysis.md",
     "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
     "pages/Cyclones-in-India.md",
     "pages/CRIPPES MISSION, 1942.md",
     "pages/-INDIAN CONSTITUTION.md",
     "pages/Case Study - Jhabua, Madhya Pradesh.md",
     "pages/Parliamentary Committees in India - A Comprehensive Guide.md",
-    "pages/Electoral Systems - India and Globally.md",
     "pages/Childhood Education Policies and Schemes in India.md",
     "pages/Case Study - Kamal Parmar's Footpath School Initiative.md",
     "pages/CABINET MISSION, 1946.md",
@@ -433,7 +440,6 @@
     "pages/Guwahati Molestation Case.md",
     "pages/_Index_of_pages.md",
     "pages/Family & Community.md",
-    "pages/National Commission for Women (NCW) - A Comprehensive Analysis for UPSC Aspirants.md",
     "assets/TboL6BLadP9RAkhws86KXX 1.png",
     "assets/TboL6BLadP9RAkhws86KXX.png",
     "assets/TySVPY7DjPEWgReXhWwvPq 2.png",
