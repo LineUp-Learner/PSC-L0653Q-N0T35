@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "e5578d86a517e687",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants"
-            }
-          },
-          {
             "id": "76325b8bbef3a5e9",
             "type": "leaf",
             "state": {
@@ -85,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/State vs. Laxman Kumar and others (1985).md",
+                "file": "pages/OBJECTIVES RESOLUTION, 1946.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "State vs. Laxman Kumar and others (1985)"
+              "title": "OBJECTIVES RESOLUTION, 1946"
             }
           },
           {
@@ -128,6 +104,16 @@
             }
           },
           {
+            "id": "743596ac01e1b424",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
+          },
+          {
             "id": "7eb6d29da40970f8",
             "type": "leaf",
             "state": {
@@ -152,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -332,7 +318,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/Governance Instruments or Public Policy Instruments.md",
+                "file": "pages/OBJECTIVES RESOLUTION, 1946.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -360,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Governance Instruments or Public Policy Instruments"
+              "title": "Graph of OBJECTIVES RESOLUTION, 1946"
             }
           }
         ]
@@ -408,11 +394,14 @@
       "3d-graph:3D Graph": false,
       "edge-tts:Read note aloud": false,
       "translate:Open translation view": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "009d1ea1364807a1",
+  "active": "059b9fad1df4ff7d",
   "lastOpenFiles": [
+    "pages/State vs. Laxman Kumar and others (1985).md",
+    "pages/Vishaka Guidelines - Vishaka & Others vs. State of Rajasthan case (1997).md",
     "pages/Governance Instruments or Public Policy Instruments.md",
     "pages/AUGUST OFFER, 1940.md",
     "pages/National Commission for Women (NCW) - A Comprehensive Analysis.md",
@@ -420,8 +409,6 @@
     "pages/Electoral Systems - India and Globally.md",
     "_Index_of_PSC-LOGSEQ NOTES.md",
     "pages/OBJECTIVES RESOLUTION, 1946.md",
-    "pages/State vs. Laxman Kumar and others (1985).md",
-    "pages/Vishaka Guidelines - Vishaka & Others vs. State of Rajasthan case (1997).md",
     "pages/Dowry Prohibition & Domestic Violence.md",
     "pages/Democracy - Basics.md",
     "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
