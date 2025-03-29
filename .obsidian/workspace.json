@@ -403,8 +403,7 @@
       "3d-graph:3D Graph": false,
       "edge-tts:Read note aloud": false,
       "translate:Open translation view": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "009d1ea1364807a1",
