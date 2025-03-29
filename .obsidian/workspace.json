@@ -128,16 +128,6 @@
             }
           },
           {
-            "id": "4e1f4e613403796c",
-            "type": "leaf",
-            "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
-            }
-          },
-          {
             "id": "7eb6d29da40970f8",
             "type": "leaf",
             "state": {
@@ -162,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -342,6 +332,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "pages/Governance Instruments or Public Policy Instruments.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -369,7 +360,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Governance Instruments or Public Policy Instruments"
             }
           }
         ]
@@ -417,11 +408,10 @@
       "3d-graph:3D Graph": false,
       "edge-tts:Read note aloud": false,
       "translate:Open translation view": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4e1f4e613403796c",
+  "active": "009d1ea1364807a1",
   "lastOpenFiles": [
     "pages/Governance Instruments or Public Policy Instruments.md",
     "pages/AUGUST OFFER, 1940.md",
