@@ -150,9 +150,19 @@
               "icon": "lucide-file",
               "title": "AUGUST OFFER, 1940"
             }
+          },
+          {
+            "id": "e1e58e419a493151",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -211,8 +221,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -332,7 +342,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/Governance Instruments or Public Policy Instruments.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -360,7 +369,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Governance Instruments or Public Policy Instruments"
+              "title": "Graph view"
             }
           }
         ]
@@ -412,8 +421,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "009d1ea1364807a1",
+  "active": "e1e58e419a493151",
   "lastOpenFiles": [
+    "pages/Governance Instruments or Public Policy Instruments.md",
     "pages/National Commission for Women (NCW) - A Comprehensive Analysis.md",
     "pages/GOVERNMENT vs. STATE.md",
     "pages/Electoral Systems - India and Globally.md",
@@ -439,7 +449,6 @@
     "pages/National Commission for Women (NCW) - A Comprehensive Analysis().md",
     "pages/Guwahati Molestation Case.md",
     "pages/_Index_of_pages.md",
-    "pages/Family & Community.md",
     "assets/TboL6BLadP9RAkhws86KXX 1.png",
     "assets/TboL6BLadP9RAkhws86KXX.png",
     "assets/TySVPY7DjPEWgReXhWwvPq 2.png",

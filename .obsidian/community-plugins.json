@@ -13,7 +13,6 @@
   "table-editor-obsidian",
   "obsidian-icon-folder",
   "tag-wrangler",
-  "editing-toolbar",
   "obsidian-linter",
   "obsidian-importer",
   "obsidian-pandoc",
@@ -48,12 +47,12 @@
   "obsidian-plugin-prettier",
   "calendar",
   "obsidian-outliner",
-  "obsidian-better-command-palette",
   "remember-cursor-position",
   "recent-files-obsidian",
   "2hop-links-plus",
   "obsidian-plugin-update-tracker",
   "note-refactor-obsidian",
   "periodic-notes",
-  "insert-multiple-attachments"
+  "insert-multiple-attachments",
+  "obsidian-better-command-palette"
 ]
