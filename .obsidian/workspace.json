@@ -110,7 +110,7 @@
               "type": "markdown",
               "state": {
                 "file": "pages/Governance Instruments or Public Policy Instruments.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -125,6 +125,16 @@
               },
               "icon": "lucide-file",
               "title": "Governance Instruments or Public Policy Instruments"
+            }
+          },
+          {
+            "id": "4e1f4e613403796c",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           },
           {
@@ -150,19 +160,9 @@
               "icon": "lucide-file",
               "title": "AUGUST OFFER, 1940"
             }
-          },
-          {
-            "id": "e1e58e419a493151",
-            "type": "leaf",
-            "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -421,15 +421,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e1e58e419a493151",
+  "active": "4e1f4e613403796c",
   "lastOpenFiles": [
     "pages/Governance Instruments or Public Policy Instruments.md",
+    "pages/AUGUST OFFER, 1940.md",
     "pages/National Commission for Women (NCW) - A Comprehensive Analysis.md",
     "pages/GOVERNMENT vs. STATE.md",
     "pages/Electoral Systems - India and Globally.md",
     "_Index_of_PSC-LOGSEQ NOTES.md",
     "pages/OBJECTIVES RESOLUTION, 1946.md",
-    "pages/AUGUST OFFER, 1940.md",
     "pages/State vs. Laxman Kumar and others (1985).md",
     "pages/Vishaka Guidelines - Vishaka & Others vs. State of Rajasthan case (1997).md",
     "pages/Dowry Prohibition & Domestic Violence.md",
