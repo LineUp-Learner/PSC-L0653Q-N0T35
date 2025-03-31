@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -318,7 +318,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/OBJECTIVES RESOLUTION, 1946.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -346,7 +345,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of OBJECTIVES RESOLUTION, 1946"
+              "title": "Graph view"
             }
           }
         ]
@@ -398,8 +397,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "059b9fad1df4ff7d",
+  "active": "743596ac01e1b424",
   "lastOpenFiles": [
+    "pages/OBJECTIVES RESOLUTION, 1946.md",
     "pages/State vs. Laxman Kumar and others (1985).md",
     "pages/Vishaka Guidelines - Vishaka & Others vs. State of Rajasthan case (1997).md",
     "pages/Governance Instruments or Public Policy Instruments.md",
@@ -408,7 +408,6 @@
     "pages/GOVERNMENT vs. STATE.md",
     "pages/Electoral Systems - India and Globally.md",
     "_Index_of_PSC-LOGSEQ NOTES.md",
-    "pages/OBJECTIVES RESOLUTION, 1946.md",
     "pages/Dowry Prohibition & Domestic Violence.md",
     "pages/Democracy - Basics.md",
     "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
