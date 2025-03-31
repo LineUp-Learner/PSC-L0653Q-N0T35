@@ -115,11 +115,7 @@ The IVC unfolded across distinct stages, reflecting socio-economic transitions:
 - Localization of cultural elements
 - The **decline and eventual collapse** of the mature urban characteristics
 
-<<<<<<< HEAD
-3. **Post-Harappan (after 1300 BCE)**:
-
-4. **Post-Harappan (after 1300 BCE)**:
-5. **Post-Harappan (after 1300 BCE)**:
+1. **Post-Harappan (after 1300 BCE)**:
 
 - Assimilation into subsequent cultures
 - Cultural continuity in certain technologies and practices,
@@ -624,13 +620,4 @@ For UPSC aspirants, the IVC represents a foundational element of Indian history 
 - Web: World History Encyclopedia, Britannica, UNESCO, Byju's, Drishti IAS, Vajiram Ravi.
 
 ---
-<<<<<<< HEAD
-
 This definitive IVC guide offers UPSC aspirants a vivid, exam-ready synthesis of history, science, and relevance, inviting exploration of its mysteries and lessons for India's future.
-=======
-<<<<<<< HEAD
-
-This definitive IVC guide offers UPSC aspirants a vivid, exam-ready synthesis of history, science, and relevance, inviting exploration of its mysteries and lessons for India's future.
-=======
->>>>>>> e64ed1f (Trial commit)
->>>>>>> 96fd8c0 (Trial commit)
