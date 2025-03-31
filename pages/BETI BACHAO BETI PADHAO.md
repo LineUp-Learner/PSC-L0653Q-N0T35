@@ -1,10 +1,10 @@
-#### #Beti_Bachao_Beti_Padhao launched by the Government of India in 2015 to address the issue of increasing school dropouts, declining child sex ratio and to promote the empowerment of girls.
+ #Beti_Bachao_Beti_Padhao launched by the Government of India in 2015 to address the issue of increasing school dropouts, declining child sex ratio and to promote the empowerment of girls.
 
 ### **Beti Bachao Beti Padhao ( #BBBP ): A Comprehensive Analysis**
 
 #### **1. Introduction and Context**
 
-The **Beti Bachao Beti Padhao (BBBP)** scheme, launched on **January 22, 2015**, by Prime Minister Narendra Modi in Panipat, #Haryana , is a flagship initiative of the Government of India aimed at addressing the declining **Child Sex Ratio (CSR)**, increasing **School Drop-outs of female children** and promoting the **empowerment of girls through education**. The program is a joint initiative of the #Ministry_of_Women_and_Child_Development **( #MWCD)**, #Ministry_of_Health_and_Family_Welfare **( #MHFW )** , and ** #Ministry_of_Education **.
+The **Beti Bachao Beti Padhao (BBBP)** scheme, launched on **January 22, 2015**, by Prime Minister Narendra Modi in Panipat, #Haryana , is a flagship initiative of the Government of India aimed at addressing the declining **Child Sex Ratio (CSR)**, increasing **School Drop-outs of female children** and promoting the **empowerment of girls through education**. The program is a joint initiative of the #Ministry_of_Women_and_Child_Development **( #MWCD)**, #Ministry_of_Health_and_Family_Welfare **( #MHFW )** , and #Ministry_of_Education **.
 
 #### **2. Objectives and Focus Areas**
 
