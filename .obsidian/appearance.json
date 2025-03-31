@@ -4,6 +4,6 @@
   "nativeMenus": true,
   "interfaceFontFamily": "Inter",
   "baseFontSizeAction": true,
-  "baseFontSize": 18,
+  "baseFontSize": 13,
   "showRibbon": true
 }
