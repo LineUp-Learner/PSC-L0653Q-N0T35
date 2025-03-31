@@ -1,4 +1,4 @@
-The Indus Valley Civilization: A Definitive & Comprehensive Complete Repo
+# The Indus Valley Civilization: A Definitive & Comprehensive Complete Repo
 
 The **Indus Valley Civilization (IVC)**, also known as the **Harappan Civilization**, stands as one of humanity's earliest urban marvels, flourishing from **3300 BCE to 1300 BCE** its mature phase from **2600 to 1900 BCE** across the north-western Indian subcontinent—modern-day **Pakistan, northwest India, and parts of Afghanistan**. Spanning **1.25–1.3 million square kilometers**, it dwarfed contemporaries like **Mesopotamia** and **Ancient Egypt** in geographical extent, showcasing advanced urban planning, sophisticated water management, extensive trade networks, and a unique cultural tapestry. The IVC is a cornerstone of ancient Indian history (GS-I), offering a lens into urbanization, societal organization, economic systems, environmental dynamics, and cultural legacies, with profound implications for **modern governance, sustainability, and national identity**.
 
@@ -10,12 +10,12 @@ The IVC's rediscovery transformed South Asia's historical narrative:
 
 - **Initial Encounters**: In **1826**, British officer **Charles Masson (James Lewis),** noted Harappa's ruins, describing them as a "ruinous brick castle", misattributing it to the remains of Alexander the Great. In **1853**, **Alexander Cunningham**, founder of the Archaeological Survey of India (ASI), examined a Harappan seal but misattributed it to Buddhist origins, delaying recognition.
 - **Breakthrough Excavations**: Systematic digs began in the 1920 s:
-    - **1921**: **Daya Ram Sahni** excavated Harappa, uncovering pottery and urban features.
-    - **1922**: **Rakhal Das Banerji** explored Mohenjo-Daro, identifying artifacts that linked it to Harappa.
-    - **1924**: **Sir John Marshall**, the second important ASI Director-General, **first used the term 'Indus Valley Civilisation'** and announced the discovery in _The Illustrated London News_, dating it to the Bronze Age via Mesopotamian trade links (e.g., Harappan seals in Ur).
+  - **1921**: **Daya Ram Sahni** excavated Harappa, uncovering pottery and urban features.
+  - **1922**: **Rakhal Das Banerji** explored Mohenjo-Daro, identifying artifacts that linked it to Harappa.
+  - **1924**: **Sir John Marshall**, the second important ASI Director-General, **first used the term 'Indus Valley Civilisation'** and announced the discovery in _The Illustrated London News_, dating it to the Bronze Age via Mesopotamian trade links (e.g., Harappan seals in Ur).
 - **Subsequent Campaigns**:
-    - Pre-Independence: **Ernest Mackay (1938)**, **M.S. Vats (1940)**, and **Mortimer Wheeler (1946)** expanded excavations at Harappa and Mohenjo-Daro.
-    - Post-Independence: Indian scholars like **B.B. Lal (Kalibangan)**, **S.R. Rao (Lothal)**, and **R.S. Bisht (Dholavira)**, alongside Pakistani archaeologists like **F.A. Khan (Kot Diji)** and **M.R. Mughal** unearthed sites like Rakhigarhi and Ganeriwala. International teams from the US, UK, France, and Italy (e.g., Indo-US Harappa Project, 1986–2001) enriched the corpus.
+  - Pre-Independence: **Ernest Mackay (1938)**, **M.S. Vats (1940)**, and **Mortimer Wheeler (1946)** expanded excavations at Harappa and Mohenjo-Daro.
+  - Post-Independence: Indian scholars like **B.B. Lal (Kalibangan)**, **S.R. Rao (Lothal)**, and **R.S. Bisht (Dholavira)**, alongside Pakistani archaeologists like **F.A. Khan (Kot Diji)** and **M.R. Mughal** unearthed sites like Rakhigarhi and Ganeriwala. International teams from the US, UK, France, and Italy (e.g., Indo-US Harappa Project, 1986–2001) enriched the corpus.
 - **Anecdote**: During the 1856 Lahore-Multan railway construction, British engineers used Harappa's **4,000-year-old kiln-fired bricks** as ballast, marveling at their durability while unwittingly plundering history—an irony reflecting colonial oversight.
 
 **Nomenclature Variants**:
@@ -35,10 +35,10 @@ The IVC's rediscovery transformed South Asia's historical narrative:
 The Indus Valley Civilization's (IVC) sprawling network outstripped its ancient peers, spanning approximately **1.26 million square kilometers**:
 
 - **Boundaries**:
-    - **North**: Manda (Jammu, India), Shortugai (Afghanistan).
-    - **South**: Daimabad (Maharashtra, India).
-    - **East**: Alamgirpur (Uttar Pradesh, India).
-    - **West**: Sutkagen-Dor (Balochistan, Pakistan, near Iran).
+  - **North**: Manda (Jammu, India), Shortugai (Afghanistan).
+  - **South**: Daimabad (Maharashtra, India).
+  - **East**: Alamgirpur (Uttar Pradesh, India).
+  - **West**: Sutkagen-Dor (Balochistan, Pakistan, near Iran).
 
 This vast territory encompassed diverse ecological zones across present-day **Pakistan** (Sindh, Punjab, Balochistan), **India** (Gujarat, Rajasthan, Haryana, Punjab, Uttar Pradesh, Maharashtra), and parts of **Afghanistan**. The civilization's core developed in the fertile alluvial plains of the **Indus River** and its tributaries, and the **Ghaggar-Hakra** (ancient Saraswati) river system. The strategic location facilitated both internal integration and external connections with Mesopotamia, Central Asia, and the Persian Gulf, forming a triangular expanse larger than Egypt and Mesopotamia combined.
 
@@ -74,49 +74,40 @@ _UPSC Tip_: Master site-specific features (e.g., Lothal's dockyard, Dholavira's 
 The IVC unfolded across distinct stages, reflecting socio-economic transitions:
 
 1. **Pre-Harappan (7000–3300 BCE)**:
-
 - Neolithic-Chalcolithic roots around 7500 BCE at **Mehrgarh** (Balochistan),
-    - Agriculture (wheat, barley),
-    - Animal domestication (zebu cattle, goats),
-    - Cotton cultivation (world's first),
-    - Early metallurgy,
-    - Proto-dentistry (drilled molars),
-    - mud-brick use by 5000 BCE.
+  - Agriculture (wheat, barley),
+  - Animal domestication (zebu cattle, goats),
+  - Cotton cultivation (world's first),
+  - Early metallurgy,
+  - Proto-dentistry (drilled molars),
+  - mud-brick use by 5000 BCE.
 - **Bhirrana** (Haryana): Carbon-dated to 7500 BCE, challenging chronological assumptions.
-
 2. **Early Harappan (3300–2600 BCE or 3200-2600 BCE)**:
-
 - Proto-urbanization (Early sites: **Rahman Dheri**, **Kot Diji**, **Amri**, **Kalibangan**)
 - Regionalization with fortified villages,
 - Early script (c. 3000 BCE), development of agriculture,
 - Early trade networks,
 - Craft specialization,
 - Regional cultures (Hakra, Sothi-Siswal) to Standardization,
-    - Cohesive system.
-
+  - Cohesive system.
 1. **Mature Harappan (2600–1900 BCE)**:
-
 - Peak-Urbanization
-    - Standardized & Sophisticated planning,
-    - Standard & Uniform Measuring Practices (weights, bricks, etc.)
-    - Internal & External Trade networks,
-    - Cultural uniformity & Urban uniformity across vast distances in cities like Harappa and Mohenjo-Daro.
-    - Full development of Indus script
-    - Estimated population of 1-5 million people
+  - Standardized & Sophisticated planning,
+  - Standard & Uniform Measuring Practices (weights, bricks, etc.)
+  - Internal & External Trade networks,
+  - Cultural uniformity & Urban uniformity across vast distances in cities like Harappa and Mohenjo-Daro.
+  - Full development of Indus script
+  - Estimated population of 1-5 million people
 - This is considered the **zenith of the IVC**, characterized by **well-planned urban centers**, advanced infrastructure, extensive trade (both internal and external), and a high degree of standardization.
-
 2. **Late Harappan (1900–1300 BCE or 1900-1500 BCE)**:
-
 - Gradual de-Urbanization,
 - Eastward population shift toward Ganges basin
 - Continued habitation in Gujarat, Haryana, and Punjab
-    - Rural shifts to sites like **Cemetery H** (Harappa), **Rangpur** (Gujarat), and eastern zones (Hulas, Alamgirpur),
-    - Emergence of the distinctive Cemetery H culture.
+  - Rural shifts to sites like **Cemetery H** (Harappa), **Rangpur** (Gujarat), and eastern zones (Hulas, Alamgirpur),
+  - Emergence of the distinctive Cemetery H culture.
 - Localization of cultural elements
 - The **decline and eventual collapse** of the mature urban characteristics
-
 1. **Post-Harappan (after 1300 BCE)**:
-
 - Assimilation into subsequent cultures
 - Cultural continuity in certain technologies and practices,
 - Integration with the emerging Vedic culture,
@@ -136,20 +127,20 @@ IVC cities were marvels of urban design, centuries ahead of their time, reflecti
 
 - **Grid Layout and Standardization**: Streets laid out in a perfect grid intersected at right angles (e.g., Mohenjo-Daro [excavated by R.D. Banerjee in 1922]'s **10.5 m-wide boulevards**), dividing cities into blocks, reflecting centralized planning and evidence of centralized authority or shared cultural standards. Standardized burnt bricks were used in a **1:2:4 ratio** (e.g., 7 x 14 x 28 cm for houses, 10 x 20 x 40 cm for walls), surpassing Egypt's sun-dried bricks and Mesopotamia's sporadic baked brick use, with uniform planning across hundreds of kilometers.
 - **City Structure and Zoning**:
-    - **Citadel**: Western elevated section for elites/administration housed public structures like the **Great Bath** (11.88 x 7.01 x 2.43 m, Mohenjo-Daro)—a watertight ritual pool with brick stairs rebuilt nine times due to flooding—and granaries (Harappa, excavated by Daya Ram Sahni in 1921: 12 units arranged in 2 rows - 6 units with air ducts, 838 sq. M, alongside copper bullock carts and sandstone statues; Mohenjo-Daro: 45.71 x 15.23 m).
-    - **Lower Town**: Eastern section for the general population featured residential zones with multi-roomed houses (1–12 rooms), often with courtyards, side entrances from streets for privacy, indoor bathing areas connected to drainage, and evidence of multi-story structures (up to three floors) with flat terraces, suggesting relatively egalitarian access to sanitation facilities despite functional zoning indicating social stratification.
-    - **Chanhudaro** (excavated by N.G. Majumdar in 1931) had no citadel, deviating from the typical layout pattern, focusing on craft specialization, suggesting a possible specialized function, with finds like an inkpot and a preserved dog footprint chasing a cat in mud offering glimpses of daily life.
+  - **Citadel**: Western elevated section for elites/administration housed public structures like the **Great Bath** (11.88 x 7.01 x 2.43 m, Mohenjo-Daro)—a watertight ritual pool with brick stairs rebuilt nine times due to flooding—and granaries (Harappa, excavated by Daya Ram Sahni in 1921: 12 units arranged in 2 rows - 6 units with air ducts, 838 sq. M, alongside copper bullock carts and sandstone statues; Mohenjo-Daro: 45.71 x 15.23 m).
+  - **Lower Town**: Eastern section for the general population featured residential zones with multi-roomed houses (1–12 rooms), often with courtyards, side entrances from streets for privacy, indoor bathing areas connected to drainage, and evidence of multi-story structures (up to three floors) with flat terraces, suggesting relatively egalitarian access to sanitation facilities despite functional zoning indicating social stratification.
+  - **Chanhudaro** (excavated by N.G. Majumdar in 1931) had no citadel, deviating from the typical layout pattern, focusing on craft specialization, suggesting a possible specialized function, with finds like an inkpot and a preserved dog footprint chasing a cat in mud offering glimpses of daily life.
 - **Sanitation**:
-    - World’s first known **urban sanitation network** with underground drainage channels featuring removable covers for maintenance, connections from individual homes to main sewers, corbelled arches for larger drains, and gradient-based flow (Mohenjo-Daro, Kalibangan [excavated by A. Ghosh in 1953], Rakhigarhi), with brick-lined channels covered with stone slabs, manholes for cleaning and maintenance, and bitumen waterproofing, particularly at Mohenjo-Daro. The system also separated storm water from wastewater with strict hygiene standards.
-    - Over **700 wells** and **80 public toilets** in Mohenjo-Daro; **Dustbins**, private wells, and bathrooms in most houses.
+  - World’s first known **urban sanitation network** with underground drainage channels featuring removable covers for maintenance, connections from individual homes to main sewers, corbelled arches for larger drains, and gradient-based flow (Mohenjo-Daro, Kalibangan [excavated by A. Ghosh in 1953], Rakhigarhi), with brick-lined channels covered with stone slabs, manholes for cleaning and maintenance, and bitumen waterproofing, particularly at Mohenjo-Daro. The system also separated storm water from wastewater with strict hygiene standards.
+  - Over **700 wells** and **80 public toilets** in Mohenjo-Daro; **Dustbins**, private wells, and bathrooms in most houses.
 - **Public Structures and Facilities**:
-    - **Great Bath** (Mohenjo-Daro): Waterproof pool with brick stairs.
-    - **Granaries**: Large storage structures with air ducts.
-    - **Dockyard** (Lothal [excavated by S.R. Rao in 1953]): World’s first known artificial manmade port facility (219×37 m).
-    - **Water Reservoirs** (Dholavira [excavated by R.S. Bisht in 1985]): Interconnected conservation system with 16 reservoirs and rock-cut architecture.
-    - **Great Hall** (Mohenjo-Daro): Possibly an administrative or assembly space.
-    - **Stadium** (Dholavira): A large open space with terraced seating.
-    - Public wells at street intersections.
+  - **Great Bath** (Mohenjo-Daro): Waterproof pool with brick stairs.
+  - **Granaries**: Large storage structures with air ducts.
+  - **Dockyard** (Lothal [excavated by S.R. Rao in 1953]): World’s first known artificial manmade port facility (219×37 m).
+  - **Water Reservoirs** (Dholavira [excavated by R.S. Bisht in 1985]): Interconnected conservation system with 16 reservoirs and rock-cut architecture.
+  - **Great Hall** (Mohenjo-Daro): Possibly an administrative or assembly space.
+  - **Stadium** (Dholavira): A large open space with terraced seating.
+  - Public wells at street intersections.
 - **Residential Architecture**: Houses varied in size, mostly consisting of **rooms with paved floors arranged around a central courtyard (Angan)** providing light and ventilation, with rooms arranged around the courtyard and side entrances ensuring privacy through strategic placement; some were **two-storied** with **private wells** and **bathrooms** connected to the drainage system, reflecting relatively egalitarian access to sanitation.
 - Inward-facing windows for privacy, minimizing dust and street noise.
 - Evidence of **separate bathing areas and toilets** connected to the main drainage system.
@@ -185,41 +176,41 @@ _Visionary Insight_: Could IVC water management guide India's climate-adaptive u
 The IVC economy thrived on agriculture, crafts, and trade, developing a remarkably advanced economic system:
 
 - **Agriculture**:
-    - **Crops**: Wheat, barley (evidenced at Banawali), cotton (world's earliest, dubbed _Sindon_ by Greeks, with origins at Mehrgarh, 7000 BCE), rice (Lothal husk evidence, c. 1800 BCE), millets, pulses, sesame, peas, mustard, dates, melons.
-    - **Techniques**: Ploughed fields (Kalibangan, earliest evidence with furrowed land), flood-based farming, canal irrigation, wooden ploughs (Kalibangan, inferred from furrows; toy plough at Banawali), multiple cropping with summer crops (rice, millets) and winter crops (wheat, barley), indicating crop rotation practices (evidenced by alternating cropping patterns).
-    - **Animals used**: Oxen for ploughing.
-    - **Irrigation**: Wells, Dams, Embankments, Reservoirs, Channels (e.g., Dholavira, Shortughai).
-        - Well irrigation for year-round cultivation (**Riverflow & Western Cyclonic Disturbance would have played an important role in groundwater recharge**).
-    - **Processing**: Grinding stones, storage facilities, evidence of fermentation.
-    - **Storage**: Granaries for surplus, possibly as taxes or emergency reserves, akin to Mesopotamia's barley wages.
-    - **Transportation**: Elephants, bullock carts (e.g., copper models at Harappa), maritime vessels for coastal and possibly open-sea trade, and harbor construction (e.g., Lothal’s dockyard), with possible horses (Surkotada, debated).
+  - **Crops**: Wheat, barley (evidenced at Banawali), cotton (world's earliest, dubbed _Sindon_ by Greeks, with origins at Mehrgarh, 7000 BCE), rice (Lothal husk evidence, c. 1800 BCE), millets, pulses, sesame, peas, mustard, dates, melons.
+  - **Techniques**: Ploughed fields (Kalibangan, earliest evidence with furrowed land), flood-based farming, canal irrigation, wooden ploughs (Kalibangan, inferred from furrows; toy plough at Banawali), multiple cropping with summer crops (rice, millets) and winter crops (wheat, barley), indicating crop rotation practices (evidenced by alternating cropping patterns).
+  - **Animals used**: Oxen for ploughing.
+  - **Irrigation**: Wells, Dams, Embankments, Reservoirs, Channels (e.g., Dholavira, Shortughai).
+    - Well irrigation for year-round cultivation (**Riverflow & Western Cyclonic Disturbance would have played an important role in groundwater recharge**).
+  - **Processing**: Grinding stones, storage facilities, evidence of fermentation.
+  - **Storage**: Granaries for surplus, possibly as taxes or emergency reserves, akin to Mesopotamia's barley wages.
+  - **Transportation**: Elephants, bullock carts (e.g., copper models at Harappa), maritime vessels for coastal and possibly open-sea trade, and harbor construction (e.g., Lothal’s dockyard), with possible horses (Surkotada, debated).
 - **Animal Husbandry**: Domesticated cattle (zebu), water buffalo, goats, sheep, pigs, camels (bones at Kalibangan), elephants (evidenced by ivory works); horses rare (Surkotada, c. 2000 BCE, debated); dogs and cats as companions; humped bulls culturally significant.
 - **Diet**: Wheat, barley, rice, milk, peas, sesame, dates, Jujube, Melons, Pomegranate, mutton, and fish formed the staple diet.
 - **Crafts**:
-    - **Bead-Making**: Carnelian, agate, lapis lazuli, steatite at Chanhudaro (bead factory), Lothal, and possibly Kuntasi, shells, micro-drilled beads (holes <0.5 mm), gold micro-work at Lothal with threads less than 0.25 mm, amethyst, and faience.
-    - **Metallurgy**: Bronze via **lost-wax casting** (e.g., Dancing Girl), with a notable absence of iron technology, copper from Khetri (Rajasthan), tin from Afghanistan or Hazaribagh, gold and silver working for ornaments, lead for small objects.
-    - **Textiles**: Woven cotton at Mohenjo-Daro, spindle whorls for spinning and dyeing.
-    - **Pottery**: Wheel-thrown red ware with black geometric and animal designs, glossy finish, produced using specialized kilns for firing, some with perforations for specific functions.
-        - Perforated pottery for sieving.
-    - **Shell Working**: Ornaments, inlays, utilitarian objects.
-    - **Stone Carving**: Seals, weights, limited sculpture.
-    - **Ivory Working**: Combs, rods, inlays, decorative items.
-    - Artisans producing jewelry and various artifacts from materials like **precious metals (gold, silver), gemstones (lapis lazuli, turquoise, carnelian, amethyst), bones, shells, faience, and baked clay**.
+  - **Bead-Making**: Carnelian, agate, lapis lazuli, steatite at Chanhudaro (bead factory), Lothal, and possibly Kuntasi, shells, micro-drilled beads (holes <0.5 mm), gold micro-work at Lothal with threads less than 0.25 mm, amethyst, and faience.
+  - **Metallurgy**: Bronze via **lost-wax casting** (e.g., Dancing Girl), with a notable absence of iron technology, copper from Khetri (Rajasthan), tin from Afghanistan or Hazaribagh, gold and silver working for ornaments, lead for small objects.
+  - **Textiles**: Woven cotton at Mohenjo-Daro, spindle whorls for spinning and dyeing.
+  - **Pottery**: Wheel-thrown red ware with black geometric and animal designs, glossy finish, produced using specialized kilns for firing, some with perforations for specific functions.
+    - Perforated pottery for sieving.
+  - **Shell Working**: Ornaments, inlays, utilitarian objects.
+  - **Stone Carving**: Seals, weights, limited sculpture.
+  - **Ivory Working**: Combs, rods, inlays, decorative items.
+  - Artisans producing jewelry and various artifacts from materials like **precious metals (gold, silver), gemstones (lapis lazuli, turquoise, carnelian, amethyst), bones, shells, faience, and baked clay**.
 - **Standardized Weights and Measures**:
-    - Binary-based weight standards (1:2:4:8:16:32:64), with standardized cubic weights made of chert and limestone cuboid weights in precise ratios, possibly suggesting a decimal-based measurement system.
-    - **Weights**:
-        - Cubical weights made of chert, limestone, and steatite.
-        - Binary progression system (1, 2, 8, 16, up to 3200 units).
-        - 0.05–500 units range.
-    - Linear measurement system, including a shell scale in Mohenjo-Daro and an ivory ruler (scale) from Lothal (1.704 mm increments), uniform across the vast area.
+  - Binary-based weight standards (1:2:4:8:16:32:64), with standardized cubic weights made of chert and limestone cuboid weights in precise ratios, possibly suggesting a decimal-based measurement system.
+  - **Weights**:
+    - Cubical weights made of chert, limestone, and steatite.
+    - Binary progression system (1, 2, 8, 16, up to 3200 units).
+    - 0.05–500 units range.
+  - Linear measurement system, including a shell scale in Mohenjo-Daro and an ivory ruler (scale) from Lothal (1.704 mm increments), uniform across the vast area.
 - **Trade**:
-    - **Internal**: Extensive exchange between IVC regions via riverine (Indus) and overland networks (evidenced by bullock carts), facilitated by specialized craft quarters in cities, supported by standardized weights.
-    - **External**: Maritime trade via:
-        - Lothal’s dockyard—the world’s first known artificial facility—which was a tidal dock with inlet/outlet mechanisms. There are also possible representations of boats on seals and evidence of navigation aids for coastal trade—to Mesopotamia (Meluhha in Sumerian texts), Sutkagendor linked to Babylon, Persian Gulf region (Bahrain - Dilmun, Magan - Oman), Central Asia (lapis lazuli routes), Turkmenistan and Afghanistan (Shortugai outpost), Egypt. Trading posts like Shortugai and intermediaries facilitated exchanges, with additional ports at Balakot, Allahdino, and Kuntasi. Ports such as Lothal and Sutkagendor served as gateway settlements for maritime trade.
-        - Exports: Timber, cotton textiles, sesame oil, lapis lazuli.
-        - Imports: Jade, turquoise, gold (from Kolar mines, Iran), silver, and tin.
-    - **PORTS**: Lothal, Sutkagendor, Balakot, Kuntasi, and Allahdino.
-    - **Exchange Mechanisms**: Barter system likely predominant, with seals possibly functioning as mercantile identification (recording names, titles, or commercial information), clay sealings on merchandise bundles, and standardized containers for commodities, suggesting possible designated marketplace areas.
+  - **Internal**: Extensive exchange between IVC regions via riverine (Indus) and overland networks (evidenced by bullock carts), facilitated by specialized craft quarters in cities, supported by standardized weights.
+  - **External**: Maritime trade via:
+    - Lothal’s dockyard—the world’s first known artificial facility—which was a tidal dock with inlet/outlet mechanisms. There are also possible representations of boats on seals and evidence of navigation aids for coastal trade—to Mesopotamia (Meluhha in Sumerian texts), Sutkagendor linked to Babylon, Persian Gulf region (Bahrain - Dilmun, Magan - Oman), Central Asia (lapis lazuli routes), Turkmenistan and Afghanistan (Shortugai outpost), Egypt. Trading posts like Shortugai and intermediaries facilitated exchanges, with additional ports at Balakot, Allahdino, and Kuntasi. Ports such as Lothal and Sutkagendor served as gateway settlements for maritime trade.
+    - Exports: Timber, cotton textiles, sesame oil, lapis lazuli.
+    - Imports: Jade, turquoise, gold (from Kolar mines, Iran), silver, and tin.
+  - **PORTS**: Lothal, Sutkagendor, Balakot, Kuntasi, and Allahdino.
+  - **Exchange Mechanisms**: Barter system likely predominant, with seals possibly functioning as mercantile identification (recording names, titles, or commercial information), clay sealings on merchandise bundles, and standardized containers for commodities, suggesting possible designated marketplace areas.
 
 _Evidence_: Harappan seals in Ur and Mesopotamian artifacts in IVC sites confirm a globalized economy.
 
@@ -236,29 +227,29 @@ _UPSC Insight_: Analyze trade networks (Mains GS-I) and memorize craft sites (e.
 The IVC's social and political structure is inferred from material evidence, revealing a complex society with distinctive cultural expressions:
 
 - **Social Structure**:
-    - Stratified society based on occupation and possibly lineage, with hierarchy suggested by dwelling sizes (citadel vs. Lower town) and grave goods (Cemetery R 37, Harappa), yet evidence of relative social equality (uniform house sizes) and the lack of palaces, grand tombs, or ostentatious royal monuments imply relative egalitarianism and possibly collective governance.
-    - Occupations: Farmers, specialized craft workers (bronze smiths, bead-makers), merchants, traders, administrators; crafts possibly hereditary.
-    - Indications of matrilineal elements from figurine evidence, with the prominence of female figurines suggesting possible matriarchal elements or significant female status.
+  - Stratified society based on occupation and possibly lineage, with hierarchy suggested by dwelling sizes (citadel vs. Lower town) and grave goods (Cemetery R 37, Harappa), yet evidence of relative social equality (uniform house sizes) and the lack of palaces, grand tombs, or ostentatious royal monuments imply relative egalitarianism and possibly collective governance.
+  - Occupations: Farmers, specialized craft workers (bronze smiths, bead-makers), merchants, traders, administrators; crafts possibly hereditary.
+  - Indications of matrilineal elements from figurine evidence, with the prominence of female figurines suggesting possible matriarchal elements or significant female status.
 - **Cultural Expressions**:
-    - **Art and Aesthetics**: Seals (primarily steatite with animal motifs, especially humpless bull as the most dominant), wheel-thrown pottery with red/black designs and geometric patterns, terracotta figurines (mother goddess and male deities), limited stone sculpture (e.g., bearded priest-king), bronze metalwork (e.g., Dancing Girl), and toys (terracotta animals, carts, whistles) for children.
-    - **Clothing and Adornment**: Evidence of cotton textiles (world’s earliest) and dyed fabrics from dyer’s vats, as well as evidence of silks and woolen textiles; male figures in draped garments, females adorned with elaborate jewelry (bangles, necklaces, headpieces).
-        - **Cotton and wool garments** predominated (semi-arid region, cotton for days & summer, wool for nights & winter).
-        - **Adornment**: World’s oldest buttons (2800–2600 BCE, made from seashell) used for ornamentation, alongside gold, silver, carnelian, and faience jewelry (necklaces, bangles, earrings) worn by both genders.
-        - **Cosmetics**: Evidence of cosmetic use found at various sites.
-    - **Food and Culinary Practices**: Diverse agricultural produce (wheat, barley, pulses), multiple-cropping strategy (summer and winter), rice cultivation at Lothal, evidence of dairy consumption at Kotada Bhadli, meat from domesticated animals (cattle, sheep, goats), and archaeological finds of food preparations resembling "laddus."
-    - **Entertainment and Leisure**: Gaming pieces suggesting board games (potential chess-like games at Lothal), musical instruments like drums, toys for children (e.g., toy ploughs at Banawali), modern dice resembling Harappan ones, and possible communal gatherings in larger structures.
-        - Hunting and fishing.
-        - Bullfighting (depicted on seals), similar to Dravidian Bravery Games.
-        - Games using dice (resembling modern ones).
-        - Marbles and clay toy carts.
+  - **Art and Aesthetics**: Seals (primarily steatite with animal motifs, especially humpless bull as the most dominant), wheel-thrown pottery with red/black designs and geometric patterns, terracotta figurines (mother goddess and male deities), limited stone sculpture (e.g., bearded priest-king), bronze metalwork (e.g., Dancing Girl), and toys (terracotta animals, carts, whistles) for children.
+  - **Clothing and Adornment**: Evidence of cotton textiles (world’s earliest) and dyed fabrics from dyer’s vats, as well as evidence of silks and woolen textiles; male figures in draped garments, females adorned with elaborate jewelry (bangles, necklaces, headpieces).
+    - **Cotton and wool garments** predominated (semi-arid region, cotton for days & summer, wool for nights & winter).
+    - **Adornment**: World’s oldest buttons (2800–2600 BCE, made from seashell) used for ornamentation, alongside gold, silver, carnelian, and faience jewelry (necklaces, bangles, earrings) worn by both genders.
+    - **Cosmetics**: Evidence of cosmetic use found at various sites.
+  - **Food and Culinary Practices**: Diverse agricultural produce (wheat, barley, pulses), multiple-cropping strategy (summer and winter), rice cultivation at Lothal, evidence of dairy consumption at Kotada Bhadli, meat from domesticated animals (cattle, sheep, goats), and archaeological finds of food preparations resembling "laddus."
+  - **Entertainment and Leisure**: Gaming pieces suggesting board games (potential chess-like games at Lothal), musical instruments like drums, toys for children (e.g., toy ploughs at Banawali), modern dice resembling Harappan ones, and possible communal gatherings in larger structures.
+    - Hunting and fishing.
+    - Bullfighting (depicted on seals), similar to Dravidian Bravery Games.
+    - Games using dice (resembling modern ones).
+    - Marbles and clay toy carts.
 - **Governance**:
-    - Remarkable uniformity in planning, weights, and seals suggests **centralized authority**, potentially an artisan or merchant council, oligarchy, theocracy, or guild-based governance rather than a monarchy, with seals possibly serving as administrative tools (recording names, titles, or commercial information) and citadels housing governance structures. Scholars propose three major models:
-        - **Single State/Empire Theory**: Uniformity in urban planning, brick ratios, and standardized artifacts across 1.26 million sq. Km suggests centralized control and regulated production.
-        - **Multiple Rulers/City-States Theory**: Regional variations (e.g., Chanhudaro’s lack of citadel) and autonomous centers like Mohenjo-Daro and Harappa indicate independent governance.
-        - **Egalitarian/Merchant-Led Governance Theory**: Absence of royal or priestly depictions and trade prominence suggest commercial elites held collective authority.
-    - Supporting evidence includes strategic city placement near resources, uniform weights indicating trade regulation, absence of monumental royal structures, citadel-lower town divisions suggesting hierarchy, and large-scale public works implying organized labor.
-    - Absence of obvious palaces, royal tombs, temples, or militaristic art contrasts with Mesopotamia's priest-kings or Egypt's pharaohs, while relatively egalitarian housing suggests limited stratification; alternative models include a possible priest-king system, city-state cooperative network, or confederated structure with shared cultural values.
-    - Fortifications (Dholavira's nested forts, Surkotada’s walls) and sling stones hint at defense, though weapons are scarce, with some copper spearheads, arrowheads, and axes found, alongside evidence of public works and storage facilities indicating coordinated labor and resource management.
+  - Remarkable uniformity in planning, weights, and seals suggests **centralized authority**, potentially an artisan or merchant council, oligarchy, theocracy, or guild-based governance rather than a monarchy, with seals possibly serving as administrative tools (recording names, titles, or commercial information) and citadels housing governance structures. Scholars propose three major models:
+    - **Single State/Empire Theory**: Uniformity in urban planning, brick ratios, and standardized artifacts across 1.26 million sq. Km suggests centralized control and regulated production.
+    - **Multiple Rulers/City-States Theory**: Regional variations (e.g., Chanhudaro’s lack of citadel) and autonomous centers like Mohenjo-Daro and Harappa indicate independent governance.
+    - **Egalitarian/Merchant-Led Governance Theory**: Absence of royal or priestly depictions and trade prominence suggest commercial elites held collective authority.
+  - Supporting evidence includes strategic city placement near resources, uniform weights indicating trade regulation, absence of monumental royal structures, citadel-lower town divisions suggesting hierarchy, and large-scale public works implying organized labor.
+  - Absence of obvious palaces, royal tombs, temples, or militaristic art contrasts with Mesopotamia's priest-kings or Egypt's pharaohs, while relatively egalitarian housing suggests limited stratification; alternative models include a possible priest-king system, city-state cooperative network, or confederated structure with shared cultural values.
+  - Fortifications (Dholavira's nested forts, Surkotada’s walls) and sling stones hint at defense, though weapons are scarce, with some copper spearheads, arrowheads, and axes found, alongside evidence of public works and storage facilities indicating coordinated labor and resource management.
 
 _Critical Insight_: Challenges hydraulic despotism models, proposing cooperative governance focused on trade and civic welfare—unlike hierarchical contemporaries.
 
@@ -271,19 +262,19 @@ _Question_: Could its peaceful ethos inspire modern India's decentralized govern
 Artifacts offer glimpses into IVC spirituality, revealing a distinctive religious life appearing to have been decentralized and nature-oriented:
 
 - **Deities**:
-    - **Mother Goddess**: Numerous terracotta figurines with plant motifs (e.g., embryo with sprouting plants) suggest a fertility cult, akin to Egypt's Isis.
-    - **Pashupati Seal**: A horned figure in a yogic pose with animals (elephant, tiger, rhino, buffalo), interpreted as proto-Shiva, though lacking a bull questions direct links.
-    - **Tree Deities**: Reverence for peepal and other sacred trees, a practice persisting in modern Indian traditions.
-    - **Animal Worship**: Especially bulls, unicorn motifs, and composite creatures, including horned deities with bull or buffalo features.
+  - **Mother Goddess**: Numerous terracotta figurines with plant motifs (e.g., embryo with sprouting plants) suggest a fertility cult, akin to Egypt's Isis.
+  - **Pashupati Seal**: A horned figure in a yogic pose with animals (elephant, tiger, rhino, buffalo), interpreted as proto-Shiva, though lacking a bull questions direct links.
+  - **Tree Deities**: Reverence for peepal and other sacred trees, a practice persisting in modern Indian traditions.
+  - **Animal Worship**: Especially bulls, unicorn motifs, and composite creatures, including horned deities with bull or buffalo features.
 - **Rituals**:
-    - **Great Bath**: Water's prominence, likely a ritual purification facility, mirroring later Hindu bathing practices and water purification rituals.
-    - Fire altars & worship (Kalibangan rows, Lothal) indicate ritual fire use; rare human sacrifice is debated, and there is evidence of animal sacrifice at some sites.
-    - Absence of monumental temples unlike Mesopotamia, with evidence of household shrines and ritual objects (offering stands, specialized vessels, figurines).
-    - Phallus and yoni symbols (lingam and yoni) suggest fertility cults.
+  - **Great Bath**: Water's prominence, likely a ritual purification facility, mirroring later Hindu bathing practices and water purification rituals.
+  - Fire altars & worship (Kalibangan rows, Lothal) indicate ritual fire use; rare human sacrifice is debated, and there is evidence of animal sacrifice at some sites.
+  - Absence of monumental temples unlike Mesopotamia, with evidence of household shrines and ritual objects (offering stands, specialized vessels, figurines).
+  - Phallus and yoni symbols (lingam and yoni) suggest fertility cults.
 - **Symbolic Elements**:
-    - Pipal trees, **swastikas** on seals and pottery (enduring in Hinduism and Jainism), unicorns, and bulls reflect reverence for nature, persisting in Hinduism and Jainism.
-    - **Trefoil Patterns**: Recurring decorative elements.
-    - **Amulets**: Worn against evil, akin to Atharva Vedic charms.
+  - Pipal trees, **swastikas** on seals and pottery (enduring in Hinduism and Jainism), unicorns, and bulls reflect reverence for nature, persisting in Hinduism and Jainism.
+  - **Trefoil Patterns**: Recurring decorative elements.
+  - **Amulets**: Worn against evil, akin to Atharva Vedic charms.
 - **Mortuary Beliefs**: Burial practices suggest afterlife concepts, with grave goods indicating provision for the deceased and evidence of post-mortem rituals, reflecting multiple coexisting traditions.
 - **Continuity with Later Traditions**: Links to subsequent Hindu practices (water veneration, animal symbolism, possible yoga-like postures on seals, swastika and peepal reverence, bangles resembling those worn today), with continuity of symbols into historical Indian religions, though debates persist about Vedic connections.
 
@@ -302,10 +293,10 @@ The **Indus script** remains undeciphered, a tantalizing mystery:
 - **Characteristics**: Over 400 distinct pictographic/logographic symbols, typically 3–20 symbols per inscription (averaging 4–5), written right-to-left (sometimes boustrophedon style) on seals, pottery, and tablets; total corpus ~4,000 inscriptions. A notable example is the Dholavira signboard—the world’s oldest known—featuring ten large symbols across 3 meters.
 - **Purpose**: Likely administrative (trade labels, possibly recording names, titles, or commercial information) or ritualistic, not literary, given brevity.
 - **Decipherment Efforts**:
-    - **Asko Parpola**: Proposes a Dravidian base, linking it to South Indian languages.
-    - **Rajesh Rao**: 2009 entropy analysis suggests linguistic structure.
-    - **S.R. Rao**: Advocates an Indo-Aryan link to Sanskrit.
-    - **2022 AI Study**: Machine learning hints at grammatical patterns, yet no consensus.
+  - **Asko Parpola**: Proposes a Dravidian base, linking it to South Indian languages.
+  - **Rajesh Rao**: 2009 entropy analysis suggests linguistic structure.
+  - **S.R. Rao**: Advocates an Indo-Aryan link to Sanskrit.
+  - **2022 AI Study**: Machine learning hints at grammatical patterns, yet no consensus.
 - **Challenges**: No bilingual text (unlike Rosetta Stone), short inscriptions, and unknown phonetics thwart progress.
 - **Global Parallel**: Resembles undeciphered Linear A (Minoan Crete).
 
@@ -320,22 +311,22 @@ _Interdisciplinary Angle_: AI and linguistics may unlock this code, enhancing UP
 IVC craftsmanship blended utility and aesthetics, demonstrating remarkable technological sophistication:
 
 - **Art**:
-    - **Dancing Girl**: 10.5 cm bronze figurine (Mohenjo-Daro), poised with bangles, showcasing finesse.
-    - **Priest-King**: Steatite bust with trefoil cloak, suggesting status or divinity.
-    - **Seals**: Over 4,000 discovered, made from steatite, chert, agate, copper, and gold, typically square (approximately 2 x 2 inches), featuring animal motifs with the humpless bull being the most dominant, alongside pictographic script, likely serving commercial purposes or as identity markers/amulets.
-    - **Pottery**: Wheel-thrown red ware with black geometric and animal motifs, glossy finish, some vessels with perforations for specific functions and naturalistic designs.
-    - **Sandstone Torso** (Harappa): Reveals sophisticated study of human anatomy.
+  - **Dancing Girl**: 10.5 cm bronze figurine (Mohenjo-Daro), poised with bangles, showcasing finesse.
+  - **Priest-King**: Steatite bust with trefoil cloak, suggesting status or divinity.
+  - **Seals**: Over 4,000 discovered, made from steatite, chert, agate, copper, and gold, typically square (approximately 2 x 2 inches), featuring animal motifs with the humpless bull being the most dominant, alongside pictographic script, likely serving commercial purposes or as identity markers/amulets.
+  - **Pottery**: Wheel-thrown red ware with black geometric and animal motifs, glossy finish, some vessels with perforations for specific functions and naturalistic designs.
+  - **Sandstone Torso** (Harappa): Reveals sophisticated study of human anatomy.
 - **Technology**:
-    - **Weights**: Binary/decimal system (smallest 0.856–1.704 g), akin to modern metric precision, with linear measurement tools showing mathematical understanding.
-    - **Beads**: Micro-drilled carnelian (holes <0.5 mm), gold threads (<0.25 mm), using vitrification techniques.
-    - **Tools**: Potter’s wheel, touchstones (Banawali) for gold testing and purity assessment, stone blade manufacturing, inkpots (Chanhudaro).
-    - **Ceramic, Microlith and Materials Science**: High-temperature kilns for brick production, faience manufacturing (glazed ceramic-like material).
-    - **Other Achievements**: Possible medical procedures (e.g., trephination evidence, dental procedures at Mehrgarh), cotton textile production, transportation technologies (wheeled carts, boats).
+  - **Weights**: Binary/decimal system (smallest 0.856–1.704 g), akin to modern metric precision, with linear measurement tools showing mathematical understanding.
+  - **Beads**: Micro-drilled carnelian (holes <0.5 mm), gold threads (<0.25 mm), using vitrification techniques.
+  - **Tools**: Potter’s wheel, touchstones (Banawali) for gold testing and purity assessment, stone blade manufacturing, inkpots (Chanhudaro).
+  - **Ceramic, Microlith and Materials Science**: High-temperature kilns for brick production, faience manufacturing (glazed ceramic-like material).
+  - **Other Achievements**: Possible medical procedures (e.g., trephination evidence, dental procedures at Mehrgarh), cotton textile production, transportation technologies (wheeled carts, boats).
 - **Metallurgy**:
-    - **Lost-Wax Casting**: Produced bronze artifacts (e.g., Dancing Girl) through bronze alloying (copper with tin), with controlled alloying proportions, gold leaf and foil production, and joining techniques such as riveting and soldering.
-    - **Bronze**: Copper (Khetri) mixed with tin (Afghanistan) or arsenic.
-    - **Copper Tools**: Axes, knives, spears.
-    - Gold and silver working for ornamental purposes; lead utilization for small objects; single-sheet metal vessel creation.
+  - **Lost-Wax Casting**: Produced bronze artifacts (e.g., Dancing Girl) through bronze alloying (copper with tin), with controlled alloying proportions, gold leaf and foil production, and joining techniques such as riveting and soldering.
+  - **Bronze**: Copper (Khetri) mixed with tin (Afghanistan) or arsenic.
+  - **Copper Tools**: Axes, knives, spears.
+  - Gold and silver working for ornamental purposes; lead utilization for small objects; single-sheet metal vessel creation.
 
 _Anecdote_: The Dancing Girl's bangles jingle across millennia, her story untold.
 
@@ -348,15 +339,15 @@ _Significance_: Reflects a society valuing precision and beauty, key for UPSC ar
 Burial customs varied, hinting at beliefs:
 
 - **Types**:
-    - **Inhumation**: North-south graves with goods (Cemetery R 37, Harappa).
-    - **Coffin Burials**: Wooden coffins at Harappa.
-    - **Fractional Burials**: Partial remains (Mohenjo-Daro).
-    - **Cremation**: Rare (Tarkhanwala Dera).
-    - **Pot Burials**: Infants in urns, also evidenced at Surkotada.
-    - **Symbolic Burials**: Goods without bodies (Mohenjo-Daro).
-    - **Joint Burials**: Unique double burials at Lothal, possibly indicating couples or family members.
-    - **Dog Burials**: With humans at Ropar.
-    - **Dholavira Specialty**: Stone slabs and a megalithic-like circle.
+  - **Inhumation**: North-south graves with goods (Cemetery R 37, Harappa).
+  - **Coffin Burials**: Wooden coffins at Harappa.
+  - **Fractional Burials**: Partial remains (Mohenjo-Daro).
+  - **Cremation**: Rare (Tarkhanwala Dera).
+  - **Pot Burials**: Infants in urns, also evidenced at Surkotada.
+  - **Symbolic Burials**: Goods without bodies (Mohenjo-Daro).
+  - **Joint Burials**: Unique double burials at Lothal, possibly indicating couples or family members.
+  - **Dog Burials**: With humans at Ropar.
+  - **Dholavira Specialty**: Stone slabs and a megalithic-like circle.
 - **Goods**: Pottery, beads, bangles, mirrors suggest afterlife concepts.
 - **Detail**: Lothal's double burial—lovers or kin?—sparks curiosity.
 
@@ -379,15 +370,15 @@ _Question_: Did rare cremation foreshadow Hindu rites?
 The IVC waned by 1900 BCE, with most cities abandoned by 1700–1400 BCE due to complex factors:
 
 - **Environmental**:
-    - Climate change evidence (weakened monsoons and neoglacial anomalies affecting rainfall patterns, with shifting monsoon patterns reducing rainfall).
-    - **Ghaggar-Hakra Drying**: Tectonic shifts and the **4.2-kiloyear drought** (c. 2200–1900 BCE) reduced water flow, confirmed by 2021 paleoclimate studies, debated as the Vedic Saraswati River.
-    - Tectonic activity altering river courses, with earthquake traces at Kalibangan around 2700 BCE.
-    - **Indus Floods**: Silt layers and Mohenjo-Daro’s nine rebuilds indicate destruction.
-    - **Deforestation**: Timber for brick-firing and overexploitation (overgrazing, over-cultivation, agricultural land degradation) depleted vegetation, leading to soil exhaustion and salinization, exacerbating aridity and resource depletion.
+  - Climate change evidence (weakened monsoons and neoglacial anomalies affecting rainfall patterns, with shifting monsoon patterns reducing rainfall).
+  - **Ghaggar-Hakra Drying**: Tectonic shifts and the **4.2-kiloyear drought** (c. 2200–1900 BCE) reduced water flow, confirmed by 2021 paleoclimate studies, debated as the Vedic Saraswati River.
+  - Tectonic activity altering river courses, with earthquake traces at Kalibangan around 2700 BCE.
+  - **Indus Floods**: Silt layers and Mohenjo-Daro’s nine rebuilds indicate destruction.
+  - **Deforestation**: Timber for brick-firing and overexploitation (overgrazing, over-cultivation, agricultural land degradation) depleted vegetation, leading to soil exhaustion and salinization, exacerbating aridity and resource depletion.
 - **Socio-Economic**:
-    - Trade with Mesopotamia declined post-2000 BCE as Elam (Iran) disrupted tin and luxury goods supply, contributing to economic unsustainability of urban centers and diminishing trade networks.
-    - Overexploitation of environmental resources and possible resource conflicts added social stress, leading to deterioration of urban systems (drainage, standardized architecture).
-    - Loss of writing and sophisticated technologies marked the decline, including technological stagnation with the failure to adopt iron technology.
+  - Trade with Mesopotamia declined post-2000 BCE as Elam (Iran) disrupted tin and luxury goods supply, contributing to economic unsustainability of urban centers and diminishing trade networks.
+  - Overexploitation of environmental resources and possible resource conflicts added social stress, leading to deterioration of urban systems (drainage, standardized architecture).
+  - Loss of writing and sophisticated technologies marked the decline, including technological stagnation with the failure to adopt iron technology.
 - **Population Movements**: Gradual eastward migrations (e.g., Hulas, Alamgirpur) toward the Ganges-Yamuna doab shifted populations to rural life, with continued habitation in Gujarat and Haryana showing reduced urbanism and dispersal into smaller settlements, possibly assimilating into Vedic societies, transitioning to rural Late Harappan cultures (Cemetery H, Rangpur, Swat Valley), evidenced by archaeological finds such as Ochre Colored Pottery, Copper Hoards, and Painted Grey Ware.
 - **Discredited Theory**: The "Aryan invasion" lacks evidence; 2019 Rakhigarhi DNA shows no Central Asian influx, favoring indigenous continuity.
 - **Disease**: Skeletal remains suggest malaria and tuberculosis, worsened by urban density.
@@ -471,12 +462,12 @@ This comparison highlights the IVC’s unique developmental pathway, characteriz
 ### Modern Relevance and Interdisciplinary Insights
 
 - **National Identity**:
-    - India: Refutes colonial "external civilizing" narratives, bolstering pride.
-    - Pakistan: Harappa and Mohenjo-Daro anchor historical claims.
+  - India: Refutes colonial "external civilizing" narratives, bolstering pride.
+  - Pakistan: Harappa and Mohenjo-Daro anchor historical claims.
 - **Science**:
-    - **DNA**: 2019 Rakhigarhi study affirms indigenous roots.
-    - **Satellite Imagery**: Reveals unexcavated sites and river courses (Ghaggar-Hakra).
-    - **Climate Research**: Isotope analysis confirms drought cycles.
+  - **DNA**: 2019 Rakhigarhi study affirms indigenous roots.
+  - **Satellite Imagery**: Reveals unexcavated sites and river courses (Ghaggar-Hakra).
+  - **Climate Research**: Isotope analysis confirms drought cycles.
 - **Sustainability**: Dholavira's water systems inform **Jal Shakti Abhiyan**; cotton links to India's textile heritage; grid layouts and sanitation offer urban planning lessons; environmental decline highlights sustainability challenges.
 
 _Social Awareness_: Its peaceful ethos offers a model for diplomacy and urban planning.
@@ -488,15 +479,15 @@ _Visionary Insight_: Could its collapse guide climate adaptation strategies?
 ### UPSC Essentials: Exam-Ready Toolkit
 
 - **Prelims**:
-    - **Sites**: Harappa (granaries), Mohenjo-Daro (Great Bath), Dholavira (reservoirs), Lothal (dockyard), Rakhigarhi (largest).
-    - **Artifacts**: Dancing Girl, Pashupati Seal, Priest-King, unicorn seals.
-    - **Dates**: Mature Harappan (2600–1900 BCE), decline (1700–1400 BCE).
+  - **Sites**: Harappa (granaries), Mohenjo-Daro (Great Bath), Dholavira (reservoirs), Lothal (dockyard), Rakhigarhi (largest).
+  - **Artifacts**: Dancing Girl, Pashupati Seal, Priest-King, unicorn seals.
+  - **Dates**: Mature Harappan (2600–1900 BCE), decline (1700–1400 BCE).
 - **Mains**:
-    - **GS-I**: Urban planning's legacy, cultural continuity debates.
-    - **GS-III**: Environmental decline as a sustainability case study.
+  - **GS-I**: Urban planning's legacy, cultural continuity debates.
+  - **GS-III**: Environmental decline as a sustainability case study.
 - **Questions**:
-    - "Evaluate IVC decline—was it ecological or economic?" (GS-I)
-    - "How does IVC urbanism inform modern India?" (GS-I/III)
+  - "Evaluate IVC decline—was it ecological or economic?" (GS-I)
+  - "How does IVC urbanism inform modern India?" (GS-I/III)
 - **Quote**: "The Indus whispers resilience and mystery—lessons for a sustainable future."
 
 ---
@@ -620,4 +611,5 @@ For UPSC aspirants, the IVC represents a foundational element of Indian history 
 - Web: World History Encyclopedia, Britannica, UNESCO, Byju's, Drishti IAS, Vajiram Ravi.
 
 ---
+
 This definitive IVC guide offers UPSC aspirants a vivid, exam-ready synthesis of history, science, and relevance, inviting exploration of its mysteries and lessons for India's future.
