@@ -102,19 +102,9 @@
               "icon": "lucide-file",
               "title": "The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants"
             }
-          },
-          {
-            "id": "8341cd8e4e1ea55d",
-            "type": "leaf",
-            "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -375,7 +365,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8341cd8e4e1ea55d",
+  "active": "4b2b0f7782e533eb",
   "lastOpenFiles": [
     "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
     "pages/Cyclones-in-India.md",
