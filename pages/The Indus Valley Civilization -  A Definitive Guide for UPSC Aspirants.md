@@ -614,4 +614,4 @@ For UPSC aspirants, the IVC represents a foundational element of Indian history 
 
 ---
 
-This definitive IVC guide offers UPSC aspirants a vivid, exam-ready synthesis of history, science, and relevance, inviting exploration of its mysteries and lessons for India's future.
+
