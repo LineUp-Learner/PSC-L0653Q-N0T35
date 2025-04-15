@@ -104,13 +104,27 @@
             }
           },
           {
-            "id": "bdbfe9b1ad2b96b9",
+            "id": "8365d1ba3308afe8",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "pages/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -294,6 +308,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "pages/Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -321,7 +336,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Untitled"
             }
           }
         ]
@@ -373,8 +388,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bdbfe9b1ad2b96b9",
+  "active": "8365d1ba3308afe8",
   "lastOpenFiles": [
+    "pages/Untitled.md",
     "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
     "pages/Cyclones-in-India.md",
     "pages/Childhood Education Policies and Schemes in India.md",
@@ -400,7 +416,6 @@
     "_Index_of_PSC- LOGSEQ NOTES.md",
     "pages/National Commission for Women (NCW) - A Comprehensive Analysis().md",
     "pages/Guwahati Molestation Case.md",
-    "pages/_Index_of_pages.md",
     "assets/TboL6BLadP9RAkhws86KXX 1.png",
     "assets/TboL6BLadP9RAkhws86KXX.png",
     "assets/TySVPY7DjPEWgReXhWwvPq 2.png",
