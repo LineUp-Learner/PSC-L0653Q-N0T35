@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5069465637207
+    "width": 221.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "82d0c486cbe1ea59",
@@ -294,7 +295,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/OBJECTIVES RESOLUTION, 1946.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -322,7 +322,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of OBJECTIVES RESOLUTION, 1946"
+              "title": "Graph view"
             }
           }
         ]
@@ -374,8 +374,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "059b9fad1df4ff7d",
+  "active": "4d6c14152cbc807a",
   "lastOpenFiles": [
+    "pages/OBJECTIVES RESOLUTION, 1946.md",
     "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
     "pages/LIFECYCLE OF A STAR.md",
     "pages/Cyclones-in-India.md",
@@ -386,7 +387,6 @@
     "pages/-INDIAN CONSTITUTION.md",
     "pages/BETI BACHAO BETI PADHAO.md",
     "pages/Governance Instruments or Public Policy Instruments.md",
-    "pages/OBJECTIVES RESOLUTION, 1946.md",
     "pages/State vs. Laxman Kumar and others (1985).md",
     "pages/Vishaka Guidelines - Vishaka & Others vs. State of Rajasthan case (1997).md",
     "pages/National Commission for Women (NCW) - A Comprehensive Analysis.md",
