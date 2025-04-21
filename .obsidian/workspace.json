@@ -104,27 +104,13 @@
             }
           },
           {
-            "id": "8365d1ba3308afe8",
+            "id": "4d6c14152cbc807a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ],
@@ -308,7 +294,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -331,12 +316,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.05153208202646698,
+                  "scale": 0.10803758692906774,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "title": "Graph view"
             }
           }
         ]
@@ -388,10 +373,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8365d1ba3308afe8",
+  "active": "4d6c14152cbc807a",
   "lastOpenFiles": [
-    "pages/Untitled.md",
     "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
+    "pages/LIFECYCLE OF A STAR.md",
     "pages/Cyclones-in-India.md",
     "pages/Childhood Education Policies and Schemes in India.md",
     "pages/Case Study - Jhabua, Madhya Pradesh.md",
