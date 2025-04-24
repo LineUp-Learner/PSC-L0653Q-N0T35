@@ -107,10 +107,24 @@
             "id": "4d6c14152cbc807a",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "pages/AUGUST OFFER, 1940.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "AUGUST OFFER, 1940"
             }
           }
         ],
@@ -294,6 +308,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "pages/AUGUST OFFER, 1940.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -321,7 +336,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of AUGUST OFFER, 1940"
             }
           }
         ]
@@ -369,33 +384,32 @@
       "3d-graph:3D Graph": false,
       "edge-tts:Read note aloud": false,
       "translate:Open translation view": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "4d6c14152cbc807a",
   "lastOpenFiles": [
+    "pages/Governance Instruments or Public Policy Instruments.md",
+    "pages/Electoral Systems - India and Globally.md",
+    "pages/Parliamentary Committees in India - A Comprehensive Guide.md",
+    "pages/National Commission for Women (NCW) - A Comprehensive Analysis.md",
+    "pages/Cyclones-in-India.md",
     "pages/OBJECTIVES RESOLUTION, 1946.md",
     "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
     "pages/LIFECYCLE OF A STAR.md",
-    "pages/Cyclones-in-India.md",
     "pages/Childhood Education Policies and Schemes in India.md",
     "pages/Case Study - Jhabua, Madhya Pradesh.md",
     "pages/CABINET MISSION, 1946.md",
     "pages/AUGUST OFFER, 1940.md",
     "pages/-INDIAN CONSTITUTION.md",
     "pages/BETI BACHAO BETI PADHAO.md",
-    "pages/Governance Instruments or Public Policy Instruments.md",
     "pages/State vs. Laxman Kumar and others (1985).md",
     "pages/Vishaka Guidelines - Vishaka & Others vs. State of Rajasthan case (1997).md",
-    "pages/National Commission for Women (NCW) - A Comprehensive Analysis.md",
     "pages/GOVERNMENT vs. STATE.md",
-    "pages/Electoral Systems - India and Globally.md",
     "_Index_of_PSC-LOGSEQ NOTES.md",
     "pages/Dowry Prohibition & Domestic Violence.md",
     "pages/Democracy - Basics.md",
     "pages/CRIPPES MISSION, 1942.md",
-    "pages/Parliamentary Committees in India - A Comprehensive Guide.md",
     "pages/Case Study - Kamal Parmar's Footpath School Initiative.md",
     "pages/EXTENDED - Parliamentary Committees in India (A Comprehensive Analysis).md",
     "_Index_of_PSC- LOGSEQ NOTES.md",
