@@ -126,9 +126,19 @@
               "icon": "lucide-file",
               "title": "AUGUST OFFER, 1940"
             }
+          },
+          {
+            "id": "9b935af5de835bd0",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -308,7 +318,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/AUGUST OFFER, 1940.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -336,7 +345,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of AUGUST OFFER, 1940"
+              "title": "Graph view"
             }
           }
         ]
@@ -384,11 +393,13 @@
       "3d-graph:3D Graph": false,
       "edge-tts:Read note aloud": false,
       "translate:Open translation view": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "4d6c14152cbc807a",
+  "active": "9b935af5de835bd0",
   "lastOpenFiles": [
+    "pages/AUGUST OFFER, 1940.md",
     "pages/Governance Instruments or Public Policy Instruments.md",
     "pages/Electoral Systems - India and Globally.md",
     "pages/Parliamentary Committees in India - A Comprehensive Guide.md",
@@ -400,7 +411,6 @@
     "pages/Childhood Education Policies and Schemes in India.md",
     "pages/Case Study - Jhabua, Madhya Pradesh.md",
     "pages/CABINET MISSION, 1946.md",
-    "pages/AUGUST OFFER, 1940.md",
     "pages/-INDIAN CONSTITUTION.md",
     "pages/BETI BACHAO BETI PADHAO.md",
     "pages/State vs. Laxman Kumar and others (1985).md",
