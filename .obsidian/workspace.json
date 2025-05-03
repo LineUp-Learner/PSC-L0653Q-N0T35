@@ -126,19 +126,9 @@
               "icon": "lucide-file",
               "title": "Cyclones-in-India"
             }
-          },
-          {
-            "id": "be2fc972b2d17636",
-            "type": "leaf",
-            "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -318,6 +308,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "pages/Cyclones-in-India.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -345,7 +336,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Cyclones-in-India"
             }
           }
         ]
@@ -397,7 +388,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "be2fc972b2d17636",
+  "active": "4d6c14152cbc807a",
   "lastOpenFiles": [
     "pages/Cyclones-in-India.md",
     "pages/AUGUST OFFER, 1940.md",
