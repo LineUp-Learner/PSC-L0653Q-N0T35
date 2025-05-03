@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/AUGUST OFFER, 1940.md",
+                "file": "pages/Cyclones-in-India.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AUGUST OFFER, 1940"
+              "title": "Cyclones-in-India"
+            }
+          },
+          {
+            "id": "be2fc972b2d17636",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -308,7 +318,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/AUGUST OFFER, 1940.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -331,12 +340,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.09573690204989983,
+                  "scale": 0.07454220829280422,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of AUGUST OFFER, 1940"
+              "title": "Graph view"
             }
           }
         ]
@@ -388,14 +397,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4d6c14152cbc807a",
+  "active": "be2fc972b2d17636",
   "lastOpenFiles": [
+    "pages/Cyclones-in-India.md",
     "pages/AUGUST OFFER, 1940.md",
     "pages/Governance Instruments or Public Policy Instruments.md",
     "pages/Electoral Systems - India and Globally.md",
     "pages/Parliamentary Committees in India - A Comprehensive Guide.md",
     "pages/National Commission for Women (NCW) - A Comprehensive Analysis.md",
-    "pages/Cyclones-in-India.md",
     "pages/OBJECTIVES RESOLUTION, 1946.md",
     "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
     "pages/LIFECYCLE OF A STAR.md",
