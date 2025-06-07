@@ -137,8 +137,7 @@
               "title": "Home tab"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -318,6 +317,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -345,7 +345,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants"
             }
           }
         ]
@@ -397,7 +397,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4b2b0f7782e533eb",
+  "active": "f62d26507afbda52",
   "lastOpenFiles": [
     "pages/Cyclones-in-India.md",
     "pages/AUGUST OFFER, 1940.md",
