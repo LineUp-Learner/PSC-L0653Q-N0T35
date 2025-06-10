@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
+                "file": "pages/Parliamentary Committees in India - A Comprehensive Guide.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants"
+              "title": "Parliamentary Committees in India - A Comprehensive Guide"
             }
           },
           {
@@ -137,7 +137,8 @@
               "title": "Home tab"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -169,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Pre-Harappan",
+                "query": "tag:#Food",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,7 +201,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -317,7 +319,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -340,12 +341,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.07454220829280422,
+                  "scale": 0.10296683677070034,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants"
+              "title": "Graph view"
             }
           }
         ]
@@ -397,16 +398,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f62d26507afbda52",
+  "active": "0596e2118c43c267",
   "lastOpenFiles": [
+    "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
+    "pages/Parliamentary Committees in India - A Comprehensive Guide.md",
     "pages/Cyclones-in-India.md",
     "pages/AUGUST OFFER, 1940.md",
     "pages/Governance Instruments or Public Policy Instruments.md",
     "pages/Electoral Systems - India and Globally.md",
-    "pages/Parliamentary Committees in India - A Comprehensive Guide.md",
     "pages/National Commission for Women (NCW) - A Comprehensive Analysis.md",
     "pages/OBJECTIVES RESOLUTION, 1946.md",
-    "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
     "pages/LIFECYCLE OF A STAR.md",
     "pages/Childhood Education Policies and Schemes in India.md",
     "pages/Case Study - Jhabua, Madhya Pradesh.md",
