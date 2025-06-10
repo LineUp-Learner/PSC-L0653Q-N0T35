@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Food",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -319,6 +319,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -346,7 +347,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants"
             }
           }
         ]
@@ -398,7 +399,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4b2b0f7782e533eb",
+  "active": "009d1ea1364807a1",
   "lastOpenFiles": [
     "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
     "pages/Parliamentary Committees in India - A Comprehensive Guide.md",
