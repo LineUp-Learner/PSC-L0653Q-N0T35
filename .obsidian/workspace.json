@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -319,7 +319,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -347,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants"
+              "title": "Graph view"
             }
           }
         ]
@@ -399,7 +398,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "009d1ea1364807a1",
+  "active": "0596e2118c43c267",
   "lastOpenFiles": [
     "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
     "pages/Parliamentary Committees in India - A Comprehensive Guide.md",
