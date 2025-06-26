@@ -126,19 +126,9 @@
               "icon": "lucide-file",
               "title": "Cyclones-in-India"
             }
-          },
-          {
-            "id": "0596e2118c43c267",
-            "type": "leaf",
-            "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -319,6 +309,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "pages/Cyclones-in-India.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -346,7 +337,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Cyclones-in-India"
             }
           }
         ]
@@ -398,7 +389,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0596e2118c43c267",
+  "active": "4d6c14152cbc807a",
   "lastOpenFiles": [
     "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
     "pages/Parliamentary Committees in India - A Comprehensive Guide.md",
