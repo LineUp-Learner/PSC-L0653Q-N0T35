@@ -126,9 +126,19 @@
               "icon": "lucide-file",
               "title": "Cyclones-in-India"
             }
+          },
+          {
+            "id": "6e65f88ff69e72c6",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -309,7 +319,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/Cyclones-in-India.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -337,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Cyclones-in-India"
+              "title": "Graph view"
             }
           }
         ]
@@ -385,14 +394,15 @@
       "3d-graph:3D Graph": false,
       "edge-tts:Read note aloud": false,
       "translate:Open translation view": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "438c4df148d8d4a4",
+  "active": "6e65f88ff69e72c6",
   "lastOpenFiles": [
+    "pages/Cyclones-in-India.md",
     "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
     "pages/Parliamentary Committees in India - A Comprehensive Guide.md",
-    "pages/Cyclones-in-India.md",
     "pages/AUGUST OFFER, 1940.md",
     "pages/Governance Instruments or Public Policy Instruments.md",
     "pages/Electoral Systems - India and Globally.md",
