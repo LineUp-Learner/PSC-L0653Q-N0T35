@@ -229,8 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5069465637207,
-    "collapsed": true
+    "width": 221.5069465637207
   },
   "right": {
     "id": "82d0c486cbe1ea59",
@@ -418,7 +417,8 @@
       "3d-graph:3D Graph": false,
       "edge-tts:Read note aloud": false,
       "translate:Open translation view": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "f4abe6441dcfde4f",
