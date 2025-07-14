@@ -160,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Scatterometer_Satellite",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -332,7 +332,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.10296683677070034,
+                  "scale": 0.06953921619221087,
                   "close": true
                 }
               },
@@ -385,11 +385,10 @@
       "3d-graph:3D Graph": false,
       "edge-tts:Read note aloud": false,
       "translate:Open translation view": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4d6c14152cbc807a",
+  "active": "438c4df148d8d4a4",
   "lastOpenFiles": [
     "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
     "pages/Parliamentary Committees in India - A Comprehensive Guide.md",
