@@ -18,7 +18,6 @@
 -  [[pages/Government - Basics, Organs & Levels - Extended & Enhanced|Government - Basics, Organs & Levels - Extended & Enhanced]]
 -  [[pages/GOVERNMENT vs. STATE|GOVERNMENT vs. STATE]]
 -  [[pages/Guwahati Molestation Case|Guwahati Molestation Case]]
--  [[pages/LIFECYCLE OF A STAR|LIFECYCLE OF A STAR]]
 -  [[pages/National Commission for Women (NCW) - A Comprehensive Analysis|National Commission for Women (NCW) - A Comprehensive Analysis]]
 -  [[pages/Nepal's Struggle for Democracy - A Case Study|Nepal's Struggle for Democracy - A Case Study]]
 -  [[pages/OBJECTIVES RESOLUTION, 1946|OBJECTIVES RESOLUTION, 1946]]

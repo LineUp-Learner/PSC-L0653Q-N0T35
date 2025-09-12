@@ -184,9 +184,33 @@
               "icon": "search",
               "title": "Home tab"
             }
+          },
+          {
+            "id": "450b881a7fcf4554",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Electoral Systems - India and Globally.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Electoral Systems - India and Globally"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -218,7 +242,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tourism",
+                "query": "proportional",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -249,7 +273,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -333,17 +358,7 @@
             }
           },
           {
-            "id": "4b2b0f7782e533eb",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "da1815abe8872df3",
+            "id": "470deb71f895cc88",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -366,6 +381,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "pages/Electoral Systems - India and Globally.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -393,7 +409,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Electoral Systems - India and Globally"
             }
           }
         ]
@@ -445,34 +461,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4b2b0f7782e533eb",
+  "active": "450b881a7fcf4554",
   "lastOpenFiles": [
+    "pages/GOVERNMENT vs. STATE.md",
+    "pages/Guwahati Molestation Case.md",
+    "pages/National Commission for Women (NCW) - A Comprehensive Analysis.md",
+    "pages/LIFECYCLE OF A STAR.md",
+    "pages/Nepal's Struggle for Democracy - A Case Study.md",
+    "pages/OBJECTIVES RESOLUTION, 1946.md",
+    "pages/Parliamentary Committees in India - A Comprehensive Guide.md",
+    "pages/State vs. Laxman Kumar and others (1985).md",
     "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
     "pages/Cyclones-in-India.md",
-    "pages/Parliamentary Committees in India - A Comprehensive Guide.md",
     "pages/Dowry Prohibition & Domestic Violence.md",
     "pages/AUGUST OFFER, 1940.md",
     "pages/Governance Instruments or Public Policy Instruments.md",
     "pages/Electoral Systems - India and Globally.md",
-    "pages/National Commission for Women (NCW) - A Comprehensive Analysis.md",
-    "pages/OBJECTIVES RESOLUTION, 1946.md",
-    "pages/LIFECYCLE OF A STAR.md",
     "pages/Childhood Education Policies and Schemes in India.md",
     "pages/Case Study - Jhabua, Madhya Pradesh.md",
     "pages/CABINET MISSION, 1946.md",
     "pages/-INDIAN CONSTITUTION.md",
     "pages/BETI BACHAO BETI PADHAO.md",
-    "pages/State vs. Laxman Kumar and others (1985).md",
     "pages/Vishaka Guidelines - Vishaka & Others vs. State of Rajasthan case (1997).md",
-    "pages/GOVERNMENT vs. STATE.md",
     "_Index_of_PSC-LOGSEQ NOTES.md",
     "pages/Democracy - Basics.md",
     "pages/CRIPPES MISSION, 1942.md",
     "pages/Case Study - Kamal Parmar's Footpath School Initiative.md",
     "pages/EXTENDED - Parliamentary Committees in India (A Comprehensive Analysis).md",
     "_Index_of_PSC- LOGSEQ NOTES.md",
-    "pages/National Commission for Women (NCW) - A Comprehensive Analysis().md",
-    "pages/Guwahati Molestation Case.md",
     "assets/TboL6BLadP9RAkhws86KXX 1.png",
     "assets/TboL6BLadP9RAkhws86KXX.png",
     "assets/TySVPY7DjPEWgReXhWwvPq 2.png",
