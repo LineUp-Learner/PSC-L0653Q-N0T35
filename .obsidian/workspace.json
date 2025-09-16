@@ -179,10 +179,24 @@
             "id": "265d911e5ab88855",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "pages/INDIA & COMMONWEALTH.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "INDIA & COMMONWEALTH"
             }
           },
           {
@@ -191,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/INDIA & THE COMMONWEALTH.md",
+                "file": "pages/INDIA & COMMONWEALTH.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -206,7 +220,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "INDIA & THE COMMONWEALTH"
+              "title": "INDIA & COMMONWEALTH"
             }
           },
           {
@@ -301,7 +315,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5069465637207
+    "width": 229.50469207763672
   },
   "right": {
     "id": "82d0c486cbe1ea59",
@@ -404,6 +418,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "pages/INDIA & COMMONWEALTH.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -431,7 +446,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of INDIA & COMMONWEALTH"
             }
           }
         ]
@@ -485,7 +500,7 @@
   },
   "active": "265d911e5ab88855",
   "lastOpenFiles": [
-    "pages/INDIA & THE COMMONWEALTH.md",
+    "pages/INDIA & COMMONWEALTH.md",
     "pages/Electoral Systems - India and Globally.md",
     "pages/GOVERNMENT vs. STATE.md",
     "pages/Guwahati Molestation Case.md",
