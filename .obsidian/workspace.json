@@ -210,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -381,7 +381,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/Electoral Systems - India and Globally.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -409,7 +408,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Electoral Systems - India and Globally"
+              "title": "Graph view"
             }
           }
         ]
@@ -461,8 +460,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "450b881a7fcf4554",
+  "active": "265d911e5ab88855",
   "lastOpenFiles": [
+    "pages/Electoral Systems - India and Globally.md",
     "pages/GOVERNMENT vs. STATE.md",
     "pages/Guwahati Molestation Case.md",
     "pages/National Commission for Women (NCW) - A Comprehensive Analysis.md",
@@ -476,7 +476,6 @@
     "pages/Dowry Prohibition & Domestic Violence.md",
     "pages/AUGUST OFFER, 1940.md",
     "pages/Governance Instruments or Public Policy Instruments.md",
-    "pages/Electoral Systems - India and Globally.md",
     "pages/Childhood Education Policies and Schemes in India.md",
     "pages/Case Study - Jhabua, Madhya Pradesh.md",
     "pages/CABINET MISSION, 1946.md",
