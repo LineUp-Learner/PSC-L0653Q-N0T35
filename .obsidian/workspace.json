@@ -186,6 +186,30 @@
             }
           },
           {
+            "id": "37b7f7ae740f06a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/INDIA & THE COMMONWEALTH.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "INDIA & THE COMMONWEALTH"
+            }
+          },
+          {
             "id": "450b881a7fcf4554",
             "type": "leaf",
             "state": {
@@ -242,7 +266,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proportional",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -273,8 +297,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -462,6 +485,7 @@
   },
   "active": "265d911e5ab88855",
   "lastOpenFiles": [
+    "pages/INDIA & THE COMMONWEALTH.md",
     "pages/Electoral Systems - India and Globally.md",
     "pages/GOVERNMENT vs. STATE.md",
     "pages/Guwahati Molestation Case.md",
@@ -487,7 +511,6 @@
     "pages/CRIPPES MISSION, 1942.md",
     "pages/Case Study - Kamal Parmar's Footpath School Initiative.md",
     "pages/EXTENDED - Parliamentary Committees in India (A Comprehensive Analysis).md",
-    "_Index_of_PSC- LOGSEQ NOTES.md",
     "assets/TboL6BLadP9RAkhws86KXX 1.png",
     "assets/TboL6BLadP9RAkhws86KXX.png",
     "assets/TySVPY7DjPEWgReXhWwvPq 2.png",
