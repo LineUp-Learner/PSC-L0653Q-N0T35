@@ -200,6 +200,16 @@
             }
           },
           {
+            "id": "6db0b3e7b86ab041",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
+          },
+          {
             "id": "37b7f7ae740f06a5",
             "type": "leaf",
             "state": {
@@ -248,7 +258,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -418,7 +428,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/INDIA & COMMONWEALTH.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -446,7 +455,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of INDIA & COMMONWEALTH"
+              "title": "Graph view"
             }
           }
         ]
@@ -498,7 +507,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "265d911e5ab88855",
+  "active": "6db0b3e7b86ab041",
   "lastOpenFiles": [
     "pages/INDIA & COMMONWEALTH.md",
     "pages/Electoral Systems - India and Globally.md",
