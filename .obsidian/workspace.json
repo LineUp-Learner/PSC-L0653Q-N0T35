@@ -152,6 +152,16 @@
             }
           },
           {
+            "id": "852129ba142dadec",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
+          },
+          {
             "id": "f4abe6441dcfde4f",
             "type": "leaf",
             "state": {
@@ -197,16 +207,6 @@
               },
               "icon": "lucide-file",
               "title": "INDIA & COMMONWEALTH"
-            }
-          },
-          {
-            "id": "6db0b3e7b86ab041",
-            "type": "leaf",
-            "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
             }
           },
           {
@@ -258,7 +258,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -507,8 +507,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6db0b3e7b86ab041",
+  "active": "852129ba142dadec",
   "lastOpenFiles": [
+    "pages/Cyclones-in-India.md",
     "pages/INDIA & COMMONWEALTH.md",
     "pages/Electoral Systems - India and Globally.md",
     "pages/GOVERNMENT vs. STATE.md",
@@ -520,7 +521,6 @@
     "pages/Parliamentary Committees in India - A Comprehensive Guide.md",
     "pages/State vs. Laxman Kumar and others (1985).md",
     "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
-    "pages/Cyclones-in-India.md",
     "pages/Dowry Prohibition & Domestic Violence.md",
     "pages/AUGUST OFFER, 1940.md",
     "pages/Governance Instruments or Public Policy Instruments.md",
