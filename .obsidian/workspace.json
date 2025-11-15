@@ -155,10 +155,48 @@
             "id": "852129ba142dadec",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants"
+            }
+          },
+          {
+            "id": "bfc695d48b49371e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -258,7 +296,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -428,6 +466,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "pages/Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -455,7 +494,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Untitled"
             }
           }
         ]
@@ -507,8 +546,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "852129ba142dadec",
+  "active": "bfc695d48b49371e",
   "lastOpenFiles": [
+    "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
+    "pages/Untitled.md",
     "pages/Cyclones-in-India.md",
     "pages/INDIA & COMMONWEALTH.md",
     "pages/Electoral Systems - India and Globally.md",
@@ -520,7 +561,6 @@
     "pages/OBJECTIVES RESOLUTION, 1946.md",
     "pages/Parliamentary Committees in India - A Comprehensive Guide.md",
     "pages/State vs. Laxman Kumar and others (1985).md",
-    "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
     "pages/Dowry Prohibition & Domestic Violence.md",
     "pages/AUGUST OFFER, 1940.md",
     "pages/Governance Instruments or Public Policy Instruments.md",
@@ -534,7 +574,6 @@
     "pages/Democracy - Basics.md",
     "pages/CRIPPES MISSION, 1942.md",
     "pages/Case Study - Kamal Parmar's Footpath School Initiative.md",
-    "pages/EXTENDED - Parliamentary Committees in India (A Comprehensive Analysis).md",
     "assets/TboL6BLadP9RAkhws86KXX 1.png",
     "assets/TboL6BLadP9RAkhws86KXX.png",
     "assets/TySVPY7DjPEWgReXhWwvPq 2.png",
