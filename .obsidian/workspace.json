@@ -200,6 +200,16 @@
             }
           },
           {
+            "id": "f5b25626d78ec416",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
+          },
+          {
             "id": "f4abe6441dcfde4f",
             "type": "leaf",
             "state": {
@@ -296,7 +306,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -466,7 +476,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -494,7 +503,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "title": "Graph view"
             }
           }
         ]
@@ -546,10 +555,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bfc695d48b49371e",
+  "active": "f5b25626d78ec416",
   "lastOpenFiles": [
-    "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
     "pages/Untitled.md",
+    "pages/The Indus Valley Civilization -  A Definitive Guide for UPSC Aspirants.md",
     "pages/Cyclones-in-India.md",
     "pages/INDIA & COMMONWEALTH.md",
     "pages/Electoral Systems - India and Globally.md",
